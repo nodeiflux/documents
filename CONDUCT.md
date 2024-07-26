@@ -38,7 +38,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at report@nodejs.org. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at hello@reactiflux.com. All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
@@ -50,29 +50,39 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 **Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
 
-**Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
+**Consequence**: A written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. The warning may be in context or private, depending on the severity of transgression.
+
+#### 1.1. Correction over time
+
+**Community impact**: Recurrent behavior that requires correction without improvement over time.
+
+**Consequence**: Corrections are expected to be followed by an adjustment in behavior. If behavior does not adjust after several corrections, moderators will have to escalate to warning, timeout, restriction, or ban.
 
 ### 2. Warning
 
 **Community Impact**: A violation through a single incident or series of actions.
 
-**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
+**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a timeout or permanent ban.
 
-### 3. Temporary Ban
+### 3. Timeout
 
-**Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
+**Community Impact**: A violation of community standards, including sustained inappropriate behavior.
 
 **Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
 
-### 4. Permanent Ban
+### 4. Ban
 
-**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
+**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals. Evasion of a prior ban merits an immediate ban.
 
 **Consequence**: A permanent ban from any sort of public interaction within the project community.
 
+#### 4.1. Ban appeals
+
+Members who have been banned for harassment or hate speech are not eligible for appeal. Bans that are eligible for appeal may contact the moderators at `hello@reactiflux.com` to request a review of their ban.
+
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+This Code of Conduct is based on the [Reactiflux](https://www.reactiflux.com) moderator handbook and the [Node.js Code of Conduct](https://github.com/nodejs/admin/blob/main/CODE_OF_CONDUCT.md), which is adapted from [Contributor Covenant version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
