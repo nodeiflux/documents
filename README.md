@@ -10,7 +10,7 @@ Nodeiflux can be a great complement to your team. Especially if you're at a smal
 
 ### For indie devs and freelancers
 
-Nodeiflux works great as a virtual coworking space. Share your work in #i-built-this, or share your writing and videos to #content. Connect with folks hiring for jobs in #job-board, or find other collaborators for non-commercial work in #collaborators.
+Nodeiflux works great as a virtual coworking space. Share your work in #i-made-this, or share your writing and videos to #share-content.
 
 ### For those learning to code
 
